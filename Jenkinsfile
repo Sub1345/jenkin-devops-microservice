@@ -1,4 +1,3 @@
-! <<<<<<< HEAD
 
 //SCRIPTED
 
@@ -35,5 +34,3 @@ pipeline {
 	
 }
 
-! =======
-!>>>>>>> origin/main
