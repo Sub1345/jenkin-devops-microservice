@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 //SCRIPTED
 
@@ -24,6 +25,14 @@ pipeline {
 			}		
 		}
 	}
+	post {
+	    always {
+		echo 'Im awsome. I run always"
+
+		}
+	}		
 	
 }
 
+=======
+>>>>>>> origin/main
